@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0194/tls/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神明仁義聖智參天地天若不覆民將何恃何望地若不載民將安居安行聖人若弗治民將安率安將是故天覆之地載之聖人治之聖人之身猶日也夫日圓尺光盈天地聖人之身小其所燭遠聖人正己而四方治矣上綱茍直百目皆開德行茍直群物皆正政也者正人者也身不正則人不從是故不言而信不怒而威不施而仁有諸心而彼正謂之至政今人曰天下亂矣難以為善此不然也夫饑者易食寒者易衣此亂而後易為德也
+  hash: sha256:86d0f0b77a10f74e5ddceb20bc79240c80e224577627a902f065f7f4c00bbdd3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0194_tls_013-h}
+metadata:
+  title: 尸子
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0194.xml
+hash: sha256:1a1dd0065d3fa250aff58b988cdc744ae3d2217cae10338943a97fec954e6c28

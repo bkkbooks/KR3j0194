@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0194/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四儀行有四儀一曰志動不忘仁二曰智用不忘義三曰力事不忘忠四曰口言不忘信慎守四儀以終其身名功之從之也猶形之有影聲之有響也是故志不忘仁則中能寬裕智不忘義則行有文理力不忘忠則動無廢功口不忘信則言若符節若中寬裕而行文理動有功而言可信也雖古之有厚功大名見於四海之外知於萬世之後者其行身也無以加於此矣
+  hash: sha256:1358226e572a53ffc0fbe866852901a09ab56612ef63bab0f8e734baea8f24b9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0194_tls_003-h}
+metadata:
+  title: 尸子
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0194.xml
+hash: sha256:e531f3ede5cd487e23ad95b6413969a2c09a9f2bab02ec9bdafc7b827a928bd1

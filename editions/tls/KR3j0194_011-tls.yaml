@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0194/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 綽子堯養無告禹愛辜人湯武及禽獸此先王之所以安危而懷遠也聖人於大私之中也為無私其於大好惡之中也為無好惡舜曰南風之薰兮可以解吾民之慍兮舜不歌禽獸而歌民湯曰朕身有罪無及萬方萬方有罪朕身受之湯不私其身而私萬方文王曰茍有仁人何必周親文王不私其親而私萬國先王非無私也所私者與人不同也松柏之鼠不知堂密之有美樅
+  hash: sha256:15e2e85510234e4cf8484d1793f62dc39ce52d387f9a629e81f0c1f941e5804f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0194_tls_011-h}
+metadata:
+  title: 尸子
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0194.xml
+hash: sha256:fedbce2538d7b4d69e3664fc2e2da8a2f5e347717befb449c987a85e3502dab1

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3j0194/tls/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恕恕者以身為度者也己所不欲毋加諸人惡諸人則去諸己欲諸人則求諸己此恕也農夫之耨去害苗者也賢者之治去害義者也慮之無益於義而慮之此心之穢也道之無益於義而道之此言之穢也為之無益於義而為之此行之穢也慮中義則智為上言中義則言為師事中義則行為法射不善而欲教人人不學也行不修而欲談人人不聽也夫驥惟伯樂獨知之不害其為良馬也行亦然惟賢者獨知之不害其為善士也
+  hash: sha256:0b4d0771c162fe6a2d00fd75ab37fb7ff369d1910e56d7926771deaff8034b0f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3j0194_tls_007-h}
+metadata:
+  title: 尸子
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3j0194.xml
+hash: sha256:e6a96a3bf2a2910019d62cfb2a38716d13c74a7cbe44a4e9abec044677274db6
